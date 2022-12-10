@@ -14,7 +14,7 @@ The project aims to let users without any coding experience separate tracks with
 > First, we should allow running apps from all of sources. Execute following command in your Terminal (if you do not know where your Terminal.app is, please search your dashboard): 
 > 
 > ```bash
-> sudo spctl --master-disable
+> sudo spctl --master-disable (or just right click and select open at first launch)
 > ```
 > You may need to input your password. 
 > 
